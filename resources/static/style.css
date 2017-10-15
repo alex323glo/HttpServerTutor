@@ -1,0 +1,9 @@
+div#test-div {
+    position: relative;
+    display: block;
+    margin: 5px;
+    padding: 10px;
+    width: 30%;
+    height: auto;
+    border: 5px ridge blueviolet;
+}
